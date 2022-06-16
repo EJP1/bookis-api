@@ -1,6 +1,6 @@
 # Itroduction
 
-This is a really simple project express app using Typescript.
+This is a really simple project based on an express app using Typescript.
 Currently only has one service (file handeling) and client (dropbox)
 
 This project uses yarn.
