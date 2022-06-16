@@ -16,5 +16,5 @@ Server will run on port 3333.
 
 ## Important
 
-The client uses a hardcoded access token for the specific dropbox account. 
+The client uses a hardcoded access token (found in src/clients/dropbox) for the specific dropbox account. 
 __This may be invalidated by the time you test this, if so contact the author to generate new token.__
