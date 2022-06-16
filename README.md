@@ -11,7 +11,10 @@ To run locally run:
 yarn
 yarn start:dev
 ```
-Server will run on port 3333.
-## Notes
 
-The client uses a hardcoded access token for the specific dropbox account. This may be invalidated after some time, if so contact the author.
+Server will run on port 3333.
+
+## Important
+
+The client uses a hardcoded access token for the specific dropbox account. 
+__This may be invalidated by the time you test this, if so contact the author to generate new token.__

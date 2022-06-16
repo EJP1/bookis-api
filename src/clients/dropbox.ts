@@ -2,7 +2,7 @@ import axios from "axios";
 
 // TODO: Store this in a scret manager...
 const ACCESS_TOKEN =
-  "sl.BJrEMyxm23i-5bWqsNK5FTsbc5IcRincJULZajXVUCvrg4_7P-B2Djkf_zF_yddPQzwaUeG9pxAjnfmvnv27NBsKeXNEtlhh7E6gr9vijrkChsuQWwutVPjOk35PPGXOyvhcSYK3";
+  "sl.BJqsDGDqF8EY_LrrOMwNgcRcZh7i28IymWuqDk4GDYCvlzBXLnlPat8ppvi5HXHJ_Tj1gKcST8H-J-HGy0Km9bAV_QL_68A5KN7RbYRFozD5n1nl84c20v_6hP4Dqz7RZykJAS9l";
 
 const Client = axios.create({
   baseURL: "https://api.dropboxapi.com/2",
